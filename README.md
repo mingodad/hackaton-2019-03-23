@@ -3,6 +3,8 @@ Implementation of a backend for a hackaton on 2019-03-23
 
 This implementation is done using this scripting language https://github.com/mingodad/squilu
 
+If you want to try it you can get an excutable here https://github.com/mingodad/db-api-server and for example at the command line type "./squilu-release-linux-64 server.nut"
+
 Here is the description for this implementation (in Spanish):
 
 
